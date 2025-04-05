@@ -32,6 +32,7 @@ export default function Intro() {
               duration: 0.2,
             }}
           >
+            
             {/*dp  */}
             <Image
             // .. when in github 
