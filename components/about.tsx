@@ -30,7 +30,7 @@ export default function About() {
     I have <span className="font-bold">5+ years of hands-on experience</span> building full-stack applications and leading projects across domains, including e-commerce and business administration systems. 
     My <span className="font-bold">core tech stack</span> includes <span className="font-bold">MERN stack, Next.js, and Python</span>, and I’m also exploring <span className="font-bold">DevOps and AI</span>. 
     I'm ranked in the <span className="font-bold">Top 1K globally on LeetCode</span> with <span className="font-bold">2206+ problems solved</span>, showcasing deep expertise in 
-    <span className="font-bold">Data Structures and Algorithms (DSA)</span>.
+    <span className="font-bold"> Data Structures and Algorithms (DSA)</span>.
   </p>
 
   <p className="mb-3">
@@ -43,7 +43,7 @@ export default function About() {
     <a href="https://www.instagram.com/abresstore" target="_blank" rel="noopener noreferrer" className="font-bold text-blue-500 hover:underline"> @AbresStore</a>, 
     a brand that <span className="font-bold">manufactures and distributes products across India</span> and exports Abayas to the Middle East. 
     We operate through <span className="font-bold">our e-commerce platform</span>, third-party marketplaces, and maintain a 
-    <span className="font-bold">strong Instagram presence</span>.
+    <span className="font-bold"> strong Instagram presence</span>.
   </p>
 
   <p>
